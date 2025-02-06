@@ -1,4 +1,4 @@
-# HTML Drag Game
+# Crossy Road
 
 **[Este juego es un proyecto de clase, las intenciones de este juego son únicamente cumplir los requisitos que pide la tarea.]**
 
